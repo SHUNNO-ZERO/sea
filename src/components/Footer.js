@@ -28,7 +28,7 @@ function Footer() {
                   > Home </Link>
                   </li>
                   <li>
-                  <Link to="Services" spy={true} smooth={true} duration={1000} > Services </Link>
+                  <Link to="Services" spy={true} smooth={true} duration={1000} > shop </Link>
                   </li>
                   <li>
                   <Link to="about-scroll" spy={true} smooth={true} duration={1000}>About Us  </Link>
